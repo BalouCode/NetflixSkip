@@ -36,3 +36,10 @@ Copy the NetflixSkip folder in the Extensions!
 ```sh
 Enjoy! 😋
 ```
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@RipBalou](https://twitter.com/RipBalou) - email
+
+Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
