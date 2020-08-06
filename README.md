@@ -2,10 +2,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/BalouCode/NetflixSkip">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="NetflixSkip/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">NetflixSkip</h3>
 
   <p align="center">
     YOUR_SHORT_DESCRIPTION
