@@ -40,6 +40,6 @@ Enjoy! 😋
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@RipBalou](https://twitter.com/RipBalou) - email
+Balou - [@RipBalou](https://twitter.com/RipBalou) - BalouRIP@protonmail.com
 
-Project Link: [https://github.com/github_username/repo](https://github.com/github_username/repo)
+Project Link: [https://github.com/BalouCode/NetflixSkip](https://github.com/BalouCode/NetflixSkip)
