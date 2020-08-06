@@ -8,7 +8,7 @@
   <h3 align="center">NetflixSkip</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Automatically skips intros and more ... (CHROME EXTENSION)
     <br />
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
