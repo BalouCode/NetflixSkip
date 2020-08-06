@@ -21,18 +21,18 @@
   </p>
 </p>
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
+<!-- Installation -->
+## Installation
  
 1. Clone the repo
 ```sh
 git clone https://github.com/BalouCode/NetflixSkip.git
 ```
 2. Go to Chrome Extensions
-```Copy the NetflixSkip folder in the Extensions!
+```sh
+Copy the NetflixSkip folder in the Extensions!
 ```
 3. Finish
-```Enjoy! 😋
+```sh
+Enjoy! 😋
 ```
