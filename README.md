@@ -13,11 +13,8 @@
     <a href="https://github.com/BalouCode/NetflixSkip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BalouCode/NetflixSkip">View Demo</a>
     ·
     <a href="https://github.com/BalouCode/NetflixSkip/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/BalouCode/NetflixSkip/issues">Request Feature</a>
   </p>
 </p>
 
