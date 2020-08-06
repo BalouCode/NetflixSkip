@@ -21,18 +21,18 @@
   </p>
 </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- GETTING STARTED -->
+## Getting Started
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
-
-
-### Built With
-
-* []()
-* []()
-* []()
+### Installation
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/BalouCode/NetflixSkip.git
+```
+2. Go to Chrome Extensions
+```Copy the NetflixSkip folder in the Extensions!
+```
+3. Finish
+```Enjoy! 😋
+```
