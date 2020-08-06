@@ -10,14 +10,14 @@
   <p align="center">
     Automatically skips intros and more ... (CHROME EXTENSION)
     <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BalouCode/NetflixSkip"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://github.com/BalouCode/NetflixSkip">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/BalouCode/NetflixSkip/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/BalouCode/NetflixSkip/issues">Request Feature</a>
   </p>
 </p>
 
