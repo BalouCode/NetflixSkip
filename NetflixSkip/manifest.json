@@ -1,0 +1,31 @@
+{
+  "description": "Skipt Netflix™ Intros, Episoden und vieles mehr!",
+  "manifest_version": 2,
+  "name": "NetflixSkip",
+  "author": "Balou",
+  "version": "0.1",
+
+  "permissions": [
+    "tabs",
+    "notifications",
+    "http://*/",
+    "https://*/"
+  ],
+
+  "content_scripts": [  
+    {  
+        "matches": [ "*://*.netflix.com/*" ],  
+       "js": ["content_script.js"]  
+        }  
+    ],
+    "icons": {
+      "64": "logo.png"
+    },
+
+  "browser_action": {
+      "default_icon": {
+          "128": "logo.png"
+      },
+      "default_title": "NetflixSkip"
+  }
+}
